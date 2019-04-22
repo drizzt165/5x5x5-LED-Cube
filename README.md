@@ -5,5 +5,5 @@ The project features 125 individually addressable LED's soldered together with t
 
 ### Final Construction of the Cube
 <p align="center">
-  <img src="https://github.com/drizzt165/5x5x5-LED-Cube/blob/master/images/FinalConstruction.jpg">
+  <img id = "FinalBuild" src="https://github.com/drizzt165/5x5x5-LED-Cube/blob/master/images/FinalConstruction.jpg" data-rotate = "90">
 </p>
