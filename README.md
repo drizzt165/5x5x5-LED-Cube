@@ -14,5 +14,5 @@ Many challenges arose thorugh the process of creating this project. Most notably
 
 ### Top LED's were acting abnormal here
 <p align="center">
-  <img alt = "Smile" src="https://github.com/drizzt165/5x5x5-LED-Cube/blob/master/images/FinalConstruction.jpg">
+  <img alt = "Smile" src="https://github.com/drizzt165/5x5x5-LED-Cube/blob/master/images/WrongLEDTiming.jpg">
 </p>
